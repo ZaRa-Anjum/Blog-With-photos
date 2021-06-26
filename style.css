@@ -1,0 +1,39 @@
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 130px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+.container {
+    height: 100%;
+    width: auto;
+    float: center;
+    margin-left: 300px;
+    margin-right:200px;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color: azure;
+}
+h3{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+}
